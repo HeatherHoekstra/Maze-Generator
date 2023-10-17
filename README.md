@@ -3,9 +3,7 @@ Maze generator created in Unity version 2021.3.2f1.
 
 File instructions:
 
-To see and 'play' the completed project, unzip the "MazeGeneratorBuild.zip" file and open the mazeGenerator.exe file. 
-
-The whole project can be opened in the Unity editor, using the "MazeGeneratorProject.zip" file.
+To see and 'play' the completed project, unzip the "MazeGeneratorBuild.zip" file and open the mazeGenerator.exe file.
 
 The scripts can be viewed seperatly in the "Scripts" folder.
 
