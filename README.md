@@ -1,7 +1,7 @@
 Maze generator created in Unity version 2021.3.2f1.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-File instructions:
+Download instructions:
 
 To see and 'play' the completed project, unzip the "MazeGeneratorBuild.zip" file and open the mazeGenerator.exe file.
 
